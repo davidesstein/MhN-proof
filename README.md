@@ -1,4 +1,6 @@
 MhN-proof
 =========
 
-Proofreading issues for the Mishkan HaNefesh machzor
+Compilation of proofreading issues for the Mishkan HaNefesh machzor
+
+...and my first GitHub repository.
